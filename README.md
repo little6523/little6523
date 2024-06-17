@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/little6523/langs)](https://githubtrends.io)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=little6523)](https://github.com/anuraghazra/github-readme-stats)
