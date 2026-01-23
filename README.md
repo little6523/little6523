@@ -3,7 +3,7 @@ Email: little6523@naver.com
 
 ## Hi there 👋
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/little6523/langs)](https://githubtrends.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little6523&layout=compact&theme=dracula)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=little6523)](https://github.com/anuraghazra/github-readme-stats)
 
 ## skills
